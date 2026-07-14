@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://makchuchalet.my/</loc><priority>1.00</priority></url>
+  <url><loc>https://makchuchalet.my/about</loc><priority>0.80</priority></url>
+  <url><loc>https://makchuchalet.my/rooms</loc><priority>0.90</priority></url>
+  <url><loc>https://makchuchalet.my/facilities</loc><priority>0.70</priority></url>
+  <url><loc>https://makchuchalet.my/outdoor</loc><priority>0.70</priority></url>
+  <url><loc>https://makchuchalet.my/attractions</loc><priority>0.60</priority></url>
+  <url><loc>https://makchuchalet.my/gallery</loc><priority>0.60</priority></url>
+  <url><loc>https://makchuchalet.my/contact</loc><priority>0.70</priority></url>
+</urlset>
