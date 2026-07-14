@@ -114,6 +114,16 @@
   <link rel="stylesheet" crossorigin href="/assets/index-Da97wUUP.css">
 </head>
 <body class="bg-brand-950 text-white font-body antialiased overflow-x-hidden">
+    <!-- GitHub Pages SPA redirect recovery -->
+    <script>
+      (function() {
+        var redirect = sessionStorage.redirect;
+        delete sessionStorage.redirect;
+        if (redirect && redirect !== location.href) {
+          history.replaceState(null, null, redirect);
+        }
+      })();
+    </script>
     <div id="root"></div>
 </body>
 </html>
